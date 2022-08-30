@@ -4,7 +4,7 @@
 
 Account-A-Buddy is a MERN stack web application that helps users keep track of their goals with a big emphasis on partner-based accountability. Each user is anonymously matched with someone who has a similar goal to either make or break a habit. This gives the user someone they can share their struggles and successes with as they try to complete their goal. The more accountability you have, the greater likelihood of success. Set your goals and find a buddy who will keep you motivated!
 
-## Languages & Technologies 
+## ⚡ Languages & Technologies 
 Languages: HTML5, CSS3, JavaScript
 <br/>
 Backend: Express.js, MongoDB, Mongoose, SocketIO
