@@ -26,6 +26,8 @@ Hosting: Heroku
     - Users can live chat with their partner in a private chatroom about their goal
     - Users can also unmatch with a partner and be matched with another random user
 
+<img src="Chat.png" />
+
 ## Team Members
 ⭐ [Samuel Song](https://www.linkedin.com/in/samsongs1991/) - Team Lead & Live Chat
 <br/>
