@@ -13,7 +13,7 @@ Frontend: React,Redux, Node.js, Axios
 <br/>
 Hosting: Heroku
 
-## Functionalities
+## ⚙️ Functionalities
 - 🚦 User Authentication 
     - Users can create an account and login to their profile
 - ⛳ Goals CRUD 
