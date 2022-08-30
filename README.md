@@ -14,15 +14,15 @@ Frontend: React,Redux, Node.js, Axios
 Hosting: Heroku
 
 ## Functionalities
-- User Authentication 🚦
+- 🚦 User Authentication 
     - Users can create an account and login to their profile
-- Goals CRUD ⛳
+- ⛳ Goals CRUD 
     - Users can create goals and subgoals
-- Daily Reaction Tracker CRUD 😀 😫
+- 😀 Daily Reaction Tracker CRUD 
     - Users can record their emotion to each one of their goals once a day
-- User can be paired with another user to be their anonymous accountability partner 🤝
+- 🤝 User can be paired with another user to be their anonymous accountability partner 
     - Users are paired based on their goal category: habit forming or breaking
-- Live Chat CRUD 💬
+- 💬 Live Chat CRUD 
     - Users can live chat with their partner in a private chatroom about their goal
     - Users can also unmatch with a partner and be matched with another random user
 
